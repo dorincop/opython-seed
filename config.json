@@ -1,0 +1,1 @@
+{ "host": "0.0.0.0", "port": "8000", "skin": "librety", "disable_email": 1, "owners": ["opython"], "self_request": "python22.glitch.me", "additional_js": ["banana.js"], "uninitialized": 1 }
